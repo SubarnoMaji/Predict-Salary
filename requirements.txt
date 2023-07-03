@@ -1,3 +1,2 @@
 scikit_learn
 streamlit==1.23.1
-sklearn
